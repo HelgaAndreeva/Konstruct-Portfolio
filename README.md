@@ -1,4 +1,4 @@
-# Konstruct-Portfolio 
+# Portfolio - Konstruct Frontend Developer
 - HTML 5
 - CSS 3
 
